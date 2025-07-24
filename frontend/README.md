@@ -1,0 +1,2 @@
+# NatureShots
+startup website 
